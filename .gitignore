@@ -1,0 +1,5 @@
+# Ignora la carpeta node_modules y dist
+node_modules
+
+dist/main.js
+dist/main.css
