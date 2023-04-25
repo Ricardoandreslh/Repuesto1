@@ -2,7 +2,7 @@
 
 _En el siguiente trabajo se mostrara el uso de JS, HTML, CSS y Webpack_
 
-_Espero les guste.._
+_npm run watch <= para iniciar el proyecto_
 
 ## Construido con 🛠️
 
